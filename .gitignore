@@ -1,8 +1,2 @@
 # Client
 .DS_STORE
-dist
-coverage/
-.nyc_output/
-*.log
-.env
-vcap-local.json
